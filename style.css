@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	color: white;
+	font-family: PT Sans;
+	background-color: #102542; 
+}
+
+#title {
+	font-size: 60px;
+}
+
+#recent {
+	font-size: 35px;
+}
