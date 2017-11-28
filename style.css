@@ -4,7 +4,9 @@ body {
 	font-family: PT Sans;
 	background-color: #102542; 
 }
-
+.content {
+	font-size: 20px;
+}
 #title {
 	font-size: 60px;
 }
