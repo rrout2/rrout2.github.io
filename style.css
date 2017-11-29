@@ -2,8 +2,28 @@ body {
 	text-align: center;
 	color: white;
 	font-family: PT Sans;
-	background-color: #102542; 
+	-webkit-animation: colorchange 60s infinite; /* Safari 4.0 - 8.0 */
+    animation: colorchange 60s infinite;
 }
+
+@-webkit-keyframes colorchange {
+ 
+     0%  {background: #102542;}
+    25%  {background: #121619;}
+    50%  {background: #89CE94;}
+    75%  {background: #083D77;}
+    100% {background: #102542;}
+}
+ 
+ 
+@keyframes colorchange {
+     0%  {background: #102542;}
+    25%  {background: #121619;}
+    50%  {background: #89CE94;}
+    75%  {background: #083D77;}
+    100% {background: #102542;}
+}   
+
 .content {
 	font-size: 20px;
 	margin-left: 20%;
