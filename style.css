@@ -6,6 +6,8 @@ body {
 }
 .content {
 	font-size: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
 }
 #title {
 	font-size: 68px;
@@ -15,6 +17,14 @@ body {
 #recent {
 	font-size: 35px;
 	color: #FF6700;
+}
+
+#meimg {
+	margin-right: 200px;
+}
+
+#illinimg {
+	margin-left: 200px;
 }
 
 .orange {
