@@ -10,11 +10,13 @@ body {
 	margin-right: 20%;
 }
 #title {
-	font-size: 68px;
+	font-size: 450%;
 	color: #3E92CC;
+	margin-bottom: 0px;
 }
 
 #recent {
+	margin-top: 0px;
 	font-size: 35px;
 	color: #FF6700;
 }
