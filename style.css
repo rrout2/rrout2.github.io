@@ -2,8 +2,8 @@ body {
 	text-align: center;
 	color: white;
 	font-family: PT Sans;
-	-webkit-animation: colorchange 60s infinite; /* Safari 4.0 - 8.0 */
-    animation: colorchange 60s infinite;
+	-webkit-animation: colorchange 20s infinite; /* Safari 4.0 - 8.0 */
+    animation: colorchange 20s infinite;
 }
 
 @-webkit-keyframes colorchange {
