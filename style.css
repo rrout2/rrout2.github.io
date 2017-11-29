@@ -8,9 +8,19 @@ body {
 	font-size: 20px;
 }
 #title {
-	font-size: 60px;
+	font-size: 68px;
+	color: #3E92CC;
 }
 
 #recent {
 	font-size: 35px;
+	color: #FF6700;
+}
+
+.orange {
+	color: #FF6700;
+}
+
+a {
+    text-decoration: none;
 }
