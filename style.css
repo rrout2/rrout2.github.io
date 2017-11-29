@@ -29,10 +29,20 @@ body {
 	margin-left: 20%;
 	margin-right: 20%;
 }
+
+#name {
+	/*color: black;*/
+}
+
 #title {
 	font-size: 450%;
 	color: #3E92CC;
 	margin-bottom: 0px;
+    text-shadow:
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
 }
 
 #recent {
@@ -55,4 +65,9 @@ body {
 
 a {
     text-decoration: none;
+}
+
+
+#uiuc {
+	color: white;
 }
