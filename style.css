@@ -30,9 +30,9 @@ body {
 	margin-right: 20%;
 }
 
-#name {
-	/*color: black;*/
-}
+/*#name {
+	font-style: : italic;
+}*/
 
 #title {
 	font-size: 450%;
@@ -48,7 +48,7 @@ body {
 #recent {
 	margin-top: 0px;
 	font-size: 35px;
-	color: #FF6700;
+	/*color: #FF6700;*/
 }
 
 #meimg {
@@ -63,11 +63,40 @@ body {
 	color: #FF6700;
 }
 
-a {
+body h4 a:link {
+	color: #FF6700;
     text-decoration: none;
 }
 
+body h4 a:visited {
+	color: #FF6700;
+    text-decoration: none;
+}
+
+body h4 a:hover {
+	color: #FFCF56;
+    text-decoration: none;
+}
+
+body p.content a:link {
+	color: green;
+    text-decoration: none;
+}
+/*
+body p a:visited {
+	color: #white;
+    text-decoration: none;
+}
+
+body p a:hover {
+	color: black;
+    text-decoration: none;
+}*/
 
 #uiuc {
 	color: white;
+}
+
+body p test: {
+	text-decoration: underline;
 }
