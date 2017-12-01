@@ -78,25 +78,19 @@ body h4 a:hover {
     text-decoration: none;
 }
 
-body p.content a:link {
-	color: green;
+body p a:link {
+	color: white;
     text-decoration: none;
 }
-/*
+
 body p a:visited {
-	color: #white;
+	color: white;
     text-decoration: none;
 }
 
 body p a:hover {
-	color: black;
+	color: #3772FF;
     text-decoration: none;
-}*/
-
-#uiuc {
-	color: white;
 }
 
-body p test: {
-	text-decoration: underline;
-}
+
