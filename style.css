@@ -93,4 +93,14 @@ body p a:hover {
     text-decoration: none;
 }
 
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: 90%;
+    height: 100px;
+    width: 100%;
+    overflow:hidden;
+}
+
 
