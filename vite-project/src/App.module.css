@@ -1,0 +1,9 @@
+.intro {
+    font-size: large;
+}
+
+.aboutMe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
